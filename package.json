@@ -1,0 +1,25 @@
+{
+  "name": "purp3d-support",
+  "displayName": "Purp3D Lua Support",
+  "description": "Provides Lua Support for the Purp3D engine API",
+  "version": "0.0.1",
+  "publisher": "ZED Interactive",
+  "engines": { "vscode": "^1.80.0" },
+  "categories": ["Snippets"],
+  "contributes": {
+    "snippets": [
+      { "language": "lua", "path": "./purp3d/purp.json" },
+      { "language": "lua", "path": "./purp3d/purp_event.json" },
+      { "language": "lua", "path": "./purp3d/purp_input.json" },
+      { "language": "lua", "path": "./purp3d/purp_log.json" },
+      { "language": "lua", "path": "./purp3d/purp_keys.json" },
+      { "language": "lua", "path": "./purp3d/purp_mouse.json" }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CallMeTerry-ZED/Purp3DVSCodeSnipets"
+  },
+  "license": "MIT",
+  "extensionKind": ["workspace"]
+}

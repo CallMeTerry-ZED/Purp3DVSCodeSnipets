@@ -1,0 +1,34 @@
+#----------------------
+# Node / VS Code Extension
+#----------------------
+node_modules/
+out/
+.vscode-test/
+*.vsix
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+#----------------------
+# Project Build Folder (from engine)
+#----------------------
+project-build/
+
+#----------------------
+# Visual Studio files
+#----------------------
+.vs/
+.vscode/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
+#----------------------
+# OS generated files
+#----------------------
+.DS_Store
+Thumbs.db
+*.swp

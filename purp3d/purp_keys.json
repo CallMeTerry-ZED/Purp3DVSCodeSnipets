@@ -1,0 +1,42 @@
+{
+    "Key TAB": {
+        "prefix": "purp.key.TAB",
+        "body": "purp.key.TAB",
+        "description": "Key code TAB"
+    },
+    "Key W": {
+        "prefix": "purp.key.W",
+        "body": "purp.key.W",
+        "description": "Key code W"
+    },
+    "Key A": {
+        "prefix": "purp.key.A",
+        "body": "purp.key.A",
+        "description": "Key code A"
+    },
+    "Key S": {
+        "prefix": "purp.key.S",
+        "body": "purp.key.S",
+        "description": "Key code S"
+    },
+    "Key D": {
+        "prefix": "purp.key.D",
+        "body": "purp.key.D",
+        "description": "Key code D"
+    },
+    "Key SPACE": {
+        "prefix": "purp.key.SPACE",
+        "body": "purp.key.SPACE",
+        "description": "Key code SPACE"
+    },
+    "Key ESCAPE": {
+        "prefix": "purp.key.ESCAPE",
+        "body": "purp.key.ESCAPE",
+        "description": "Key code ESCAPE"
+    },
+    "Key BACKSPACE": {
+        "prefix": "purp.key.BACKSPACE",
+        "body": "purp.key.BACKSPACE",
+        "description": "Key code BACKSPACE"
+    }
+}

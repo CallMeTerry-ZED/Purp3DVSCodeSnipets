@@ -1,0 +1,22 @@
+{
+    "Purp Quit": {
+        "prefix": "purp.quit",
+        "body": "purp.quit()",
+        "description": "Stops the application"
+    },
+    "Purp Start": {
+        "prefix": "purp.start",
+        "body": "purp.start()",
+        "description": "Start the Lua application"
+    },
+    "Purp Update": {
+        "prefix": "purp.update",
+        "body": "purp.update(${1:dt})",
+        "description": "Update callback with delta time"
+    },
+    "Purp OnEvent": {
+        "prefix": "purp.onevent",
+        "body": "purp.onevent(${1:event})",
+        "description": "Event callback"
+    }
+}

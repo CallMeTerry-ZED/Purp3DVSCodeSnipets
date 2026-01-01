@@ -1,0 +1,27 @@
+{
+    "Is Key Pressed": {
+        "prefix": "purp.input.is_key_pressed",
+        "body": "purp.input.is_key_pressed(${1:keycode})",
+        "description": "Check if a key is pressed"
+    },
+    "Is Mouse Button Pressed": {
+        "prefix": "purp.input.is_mouse_button_pressed",
+        "body": "purp.input.is_mouse_button_pressed(${1:button})",
+        "description": "Check if a mouse button is pressed"
+    },
+    "Get Mouse Position": {
+        "prefix": "purp.input.get_mouse_position",
+        "body": "purp.input.get_mouse_position()",
+        "description": "Get mouse position as table {x, y}"
+    },
+    "Get Mouse X": {
+        "prefix": "purp.input.get_mouse_x",
+        "body": "purp.input.get_mouse_x()",
+        "description": "Get mouse X position"
+    },
+    "Get Mouse Y": {
+        "prefix": "purp.input.get_mouse_y",
+        "body": "purp.input.get_mouse_y()",
+        "description": "Get mouse Y position"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "ClientLog Trace": {
+        "prefix": "purp.clientlog.trace",
+        "body": "purp.clientlog.trace(${1:message})",
+        "description": "Log trace message to client"
+    },
+    "ClientLog Info": {
+        "prefix": "purp.clientlog.info",
+        "body": "purp.clientlog.info(${1:message})",
+        "description": "Log info message to client"
+    },
+    "ClientLog Warn": {
+        "prefix": "purp.clientlog.warn",
+        "body": "purp.clientlog.warn(${1:message})",
+        "description": "Log warn message to client"
+    },
+    "ClientLog Error": {
+        "prefix": "purp.clientlog.error",
+        "body": "purp.clientlog.error(${1:message})",
+        "description": "Log error message to client"
+    },
+    "ServerLog Trace": {
+        "prefix": "purp.serverlog.trace",
+        "body": "purp.serverlog.trace(${1:message})",
+        "description": "Log trace message to server"
+    },
+    "ServerLog Info": {
+        "prefix": "purp.serverlog.info",
+        "body": "purp.serverlog.info(${1:message})",
+        "description": "Log info message to server"
+    },
+    "ServerLog Warn": {
+        "prefix": "purp.serverlog.warn",
+        "body": "purp.serverlog.warn(${1:message})",
+        "description": "Log warn message to server"
+    },
+    "ServerLog Error": {
+        "prefix": "purp.serverlog.error",
+        "body": "purp.serverlog.error(${1:message})",
+        "description": "Log error message to server"
+    }
+}

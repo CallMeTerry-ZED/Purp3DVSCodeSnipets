@@ -1,0 +1,27 @@
+{
+    "Mouse LEFT": {
+        "prefix": "purp.mouse.LEFT",
+        "body": "purp.mouse.LEFT",
+        "description": "Mouse left button"
+    },
+    "Mouse RIGHT": {
+        "prefix": "purp.mouse.RIGHT",
+        "body": "purp.mouse.RIGHT",
+        "description": "Mouse right button"
+    },
+    "Mouse MIDDLE": {
+        "prefix": "purp.mouse.MIDDLE",
+        "body": "purp.mouse.MIDDLE",
+        "description": "Mouse middle button"
+    },
+    "Mouse BUTTON_1": {
+        "prefix": "purp.mouse.BUTTON_1",
+        "body": "purp.mouse.BUTTON_1",
+        "description": "Mouse button 1"
+    },
+    "Mouse BUTTON_2": {
+        "prefix": "purp.mouse.BUTTON_2",
+        "body": "purp.mouse.BUTTON_2",
+        "description": "Mouse button 2"
+    }
+}

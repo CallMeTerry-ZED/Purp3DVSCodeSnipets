@@ -1,0 +1,62 @@
+{
+    "Purp Event None": {
+        "prefix": "purp.event.None",
+        "body": "purp.event.None",
+        "description": "EventType None"
+    },
+    "Purp Event WindowClose": {
+        "prefix": "purp.event.WindowClose",
+        "body": "purp.event.WindowClose",
+        "description": "EventType WindowClose"
+    },
+    "Purp Event WindowResize": {
+        "prefix": "purp.event.WindowResize",
+        "body": "purp.event.WindowResize",
+        "description": "EventType WindowResize"
+    },
+    "Purp Event KeyPressed": {
+        "prefix": "purp.event.KeyPressed",
+        "body": "purp.event.KeyPressed",
+        "description": "EventType KeyPressed"
+    },
+    "Purp Event KeyReleased": {
+        "prefix": "purp.event.KeyReleased",
+        "body": "purp.event.KeyReleased",
+        "description": "EventType KeyReleased"
+    },
+    "Purp Event MouseButtonPressed": {
+        "prefix": "purp.event.MouseButtonPressed",
+        "body": "purp.event.MouseButtonPressed",
+        "description": "EventType MouseButtonPressed"
+    },
+    "Purp Event MouseButtonReleased": {
+        "prefix": "purp.event.MouseButtonReleased",
+        "body": "purp.event.MouseButtonReleased",
+        "description": "EventType MouseButtonReleased"
+    },
+    "Purp Event MouseMoved": {
+        "prefix": "purp.event.MouseMoved",
+        "body": "purp.event.MouseMoved",
+        "description": "EventType MouseMoved"
+    },
+    "Purp Event MouseScrolled": {
+        "prefix": "purp.event.MouseScrolled",
+        "body": "purp.event.MouseScrolled",
+        "description": "EventType MouseScrolled"
+    },
+    "Mark Event Handled": {
+        "prefix": "purp.event.mark_handled",
+        "body": "purp.event.mark_handled(${1:event})",
+        "description": "Mark event as handled"
+    },
+    "Is Key Pressed": {
+        "prefix": "purp.event.is_key_pressed",
+        "body": "purp.event.is_key_pressed(${1:event}, ${2:keycode})",
+        "description": "Check if event key pressed"
+    },
+    "Is Key Released": {
+        "prefix": "purp.event.is_key_released",
+        "body": "purp.event.is_key_released(${1:event}, ${2:keycode})",
+        "description": "Check if event key released"
+    }
+}
